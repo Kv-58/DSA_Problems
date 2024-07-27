@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kv-58/DSA_Problems/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kv-58/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kv-58/DSA_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Kv-58/DSA_Problems/tree/master/2427-first-letter-to-appear-twice) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kv-58/DSA_Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

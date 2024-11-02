@@ -4,8 +4,6 @@ class Solution {
         HashSet<Integer> h = new HashSet<>();
         for(int i = 0; i < nums.length; i++){
             h.add(nums[i]);
-        }System.out.println(h);
-        for(int i = 0; i < nums.length; i++){
             sum = 0;
             while(nums[i] != 0){
                 int digit = nums[i] % 10;
@@ -14,8 +12,11 @@ class Solution {
             }
             h.add(sum);
         }
+        // for(int i = 0; i < nums.length; i++){
+            
+        // }
         
-        System.out.println(h);
+        // System.out.println(h);
         return h.size();
         
     }

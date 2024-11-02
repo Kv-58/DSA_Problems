@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kv-58/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Kv-58/DSA_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kv-58/DSA_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |

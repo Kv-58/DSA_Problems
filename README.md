@@ -41,4 +41,5 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kv-58/DSA_Problems/tree/master/0007-reverse-integer) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Kv-58/DSA_Problems/tree/master/2238-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->

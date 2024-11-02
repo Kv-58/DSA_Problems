@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Kv-58/DSA_Problems/tree/master/1791-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Kv-58/DSA_Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

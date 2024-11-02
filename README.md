@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kv-58/DSA_Problems/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kv-58/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kv-58/DSA_Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kv-58/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kv-58/DSA_Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0001-two-sum](https://github.com/Kv-58/DSA_Problems/tree/master/0001-two-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kv-58/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Kv-58/DSA_Problems/tree/master/1791-richest-customer-wealth) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -42,4 +45,5 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Kv-58/DSA_Problems/tree/master/0007-reverse-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Kv-58/DSA_Problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->

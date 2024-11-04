@@ -16,6 +16,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kv-58/DSA_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kv-58/DSA_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2580-circular-sentence](https://github.com/Kv-58/DSA_Problems/tree/master/2580-circular-sentence) |
+| [3451-string-compression-iii](https://github.com/Kv-58/DSA_Problems/tree/master/3451-string-compression-iii) |
 ## Queue
 |  |
 | ------- |

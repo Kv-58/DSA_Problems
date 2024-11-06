@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Kv-58/DSA_Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Kv-58/DSA_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kv-58/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Kv-58/DSA_Problems/tree/master/1791-richest-customer-wealth) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Kv-58/DSA_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Matrix
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Kv-58/DSA_Problems/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Kv-58/DSA_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->

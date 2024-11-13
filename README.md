@@ -40,6 +40,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kv-58/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Kv-58/DSA_Problems/tree/master/1791-richest-customer-wealth) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Kv-58/DSA_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kv-58/DSA_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Matrix
 |  |
@@ -58,5 +59,14 @@
 ## Sorting
 |  |
 | ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Kv-58/DSA_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kv-58/DSA_Problems/tree/master/3291-find-if-array-can-be-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Kv-58/DSA_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Kv-58/DSA_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->

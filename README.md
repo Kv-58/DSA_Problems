@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kv-58/DSA_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Kv-58/DSA_Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

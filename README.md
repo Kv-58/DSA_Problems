@@ -38,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kv-58/DSA_Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kv-58/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Kv-58/DSA_Problems/tree/master/0027-remove-element) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kv-58/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Kv-58/DSA_Problems/tree/master/1791-richest-customer-wealth) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kv-58/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Kv-58/DSA_Problems/tree/master/0027-remove-element) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kv-58/DSA_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |

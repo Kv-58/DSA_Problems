@@ -40,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kv-58/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kv-58/DSA_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kv-58/DSA_Problems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Kv-58/DSA_Problems/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kv-58/DSA_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Kv-58/DSA_Problems/tree/master/1791-richest-customer-wealth) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kv-58/DSA_Problems/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Kv-58/DSA_Problems/tree/master/0066-plus-one) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Kv-58/DSA_Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String Matching

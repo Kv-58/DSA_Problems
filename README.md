@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kv-58/DSA_Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Kv-58/DSA_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Kv-58/DSA_Problems/tree/master/0066-plus-one) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Kv-58/DSA_Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kv-58/DSA_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
